@@ -1,0 +1,36 @@
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\bin\Debug\Minesweeper2.exe.config
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\bin\Debug\Minesweeper2.exe
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\bin\Debug\Minesweeper2.pdb
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.Game.resources
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.Properties.Resources.resources
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.exe
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.pdb
+C:\Users\Maria\Desktop\Minesweeper2\bin\Debug\Minesweeper2.exe.config
+C:\Users\Maria\Desktop\Minesweeper2\bin\Debug\Minesweeper2.exe
+C:\Users\Maria\Desktop\Minesweeper2\bin\Debug\Minesweeper2.pdb
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.Game.resources
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.Properties.Resources.resources
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.exe
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.pdb
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.InitialForm.resources
+C:\Users\Maria\source\repos\Minesweeper2\Minesweeper2\obj\Debug\Minesweeper2.GameRules.resources
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.GameRules.resources
+C:\Users\Maria\Desktop\Minesweeper2\obj\Debug\Minesweeper2.InitialForm.resources
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\bin\Debug\Minesweeper2.exe.config
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\bin\Debug\Minesweeper2.exe
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\bin\Debug\Minesweeper2.pdb
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.Game.resources
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.GameRules.resources
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.InitialForm.resources
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.Properties.Resources.resources
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.exe
+C:\Users\Maria\Desktop\ПУ\Първи курс\Втори триместър I курс\Създаване на ГПИ\Курсов проект\Commited to Github\minesweeper\Minesweeper2\obj\Debug\Minesweeper2.pdb
