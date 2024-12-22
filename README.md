@@ -15,3 +15,4 @@ This application is an implementation of the classic Minesweeper game. The objec
 - Safe first-click mechanics ensuring no bomb is triggered on the first move
 - Ability to flag or unflag a button to mark suspected bombs
 - Visual feedback for opened cells and flagged bombs
+- Automatic opening of safe regions - when a cell with no neighbouring bombs (0) is clicked, all ajdacent and connected safe cells are revealed automatically
